@@ -43,8 +43,3 @@ This repository contains the code and findings from a performance characterizati
 ## Conclusion
 The study underscores the importance of KSM in enhancing memory management efficiency and system scalability in virtualized environments. Further research could explore advanced optimization techniques and integration with other memory management solutions to address evolving system requirements.
 
-## Repository Structure
-- `code/`: Contains scripts used for workload generation and data collection.
-- `data/`: Includes collected data and experimental results.
-- `plots/`: Contains plots generated from collected data.
-- `README.md`: Overview of the project and findings.
