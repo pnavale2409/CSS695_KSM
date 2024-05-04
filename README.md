@@ -34,6 +34,9 @@ This repository contains the code and findings from a performance characterizati
   - Again wait for some time, and then run stress command on the VMs.
   - Make plots and analyze them.
 
+## Data
+Data was collected in CSV files (https://docs.google.com/spreadsheets/d/1wBj4yQyTHBXGi6IxTjVH1b_Ff69FTtqzJpP0qgCuD2o/edit?usp=sharing).
+
 ## Findings
 - KSM demonstrated effectiveness in reducing memory duplication and optimizing memory utilization.
 - `General_profit` increased over time (with an initial dip), indicating the benefits of memory deduplication by KSM.
